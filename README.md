@@ -16,7 +16,7 @@ Manga-OSX é um site de leitura de mangás online desenvolvido em ReactJS usando
 - CSS
 
 
-[Veja o site online aqui](https://Cbih939.github.io/Manga-OSX)
+[Veja o site online aqui]([https://Cbih939.github.io/Manga-OSX](https://manga-osx.vercel.app/))
 
 Manga-OSX é um site de leitura de mangás online desenvolvido em ReactJS usando a API do MangaDex. Este projeto permite que os usuários visualizem uma lista de mangás, vejam detalhes sobre cada mangá e leiam capítulos específicos.
 
